@@ -5,20 +5,25 @@ Remote Disaster Recover Bot - DRAID with object detection capabilities | Raspber
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisities
+## Prerequisities
 
-## Client
-* Python 3
-* Pygame
+### Client
+* **Python 3**
+    * In Ubuntu python 3.4 can be installed via terminal with the command given below:
+    `sudo apt-get install python3`
+* **Pygame**
 
-## Server [Raspi]
-* ffmpeg
-* Python 3
+### Server [Raspi]
+* **ffmpeg**
+* **Python 3**
 
-## Middleware
-* OPEN CV
-* ffmpeg
-* Python 3
+### Middleware
+* **OPEN CV**
+  * **Installation on Linux:**For complete installation of opencv in ubuntu you can refer [here](http://www.pyimagesearch.com/2015/06/22/install-opencv-3-0-and-python-2-7-on-ubuntu/).
+
+* **ffmpeg**
+* **Python 3**
+
 
 ```
 Give examples
@@ -42,25 +47,6 @@ until finished
 
 End with an example of getting some data out of the system or using it for a little demo
 
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ## Deployment
 
@@ -68,13 +54,14 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* Dropwizard - Bla bla bla
-* Maven - Maybe
 * Atom - ergaerga
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+* Prabal Man Dhaubhadel
+* Prabhat Chhetri
+* Rohit Ratna Sthapit
+* Srishan Bhattarai
 
 ## Versioning
 
